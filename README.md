@@ -3,6 +3,8 @@
 This is a Kata from Reddit which can be found [here](https://www.reddit.com/r/dailyprogrammer/comments/106gse/9202012_challenge_100_intermediate_bad_word_filter/
 )
 
+the bad words used were from a list [here](http://www.bannedwordlist.com/lists/swearWords.txt)
+
 It simply censors bad words so the initial letter is shown and the rest of the word is stars for example f***. We did this in Android Studio while pairing with TDD and there is a simple Android App as an interface.
 
 ### Improvements ###
