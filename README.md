@@ -8,6 +8,7 @@ It simply censors bad words so the initial letter is shown and the rest of the w
 ### Improvements ###
 
 This is functionally complete but I would like to experiment with this Kata by adding;
+
 * Better UI (not happy with the UI currently but it was done under a time limit)
 * adding and implementing RetroLambda
 * Potentially using RXJava
